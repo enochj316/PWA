@@ -2,7 +2,7 @@
 
 ## Description
 
-Track your workouts with Fitness Tracker. The app will keep track of every exercise in your workout. The app dashboard will display weekly summary graphs of all workouts done in a week.
+A Full Stack web application built with express, node and indexDB. With this application you can keep track of your finances by adding expenses and income.
 
 ## Table of Contents
 
@@ -21,26 +21,20 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 
 
 <p align="center">
-    <a href="https://fitnesstrackerjoy.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+    <a href="https://pwabudgetjoy.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
 </p>
 
 
 ## Usage
 
-### Screeshots
+The usage of this app is all transactions can be done when offline. The app updates the database when back online.
 
-1. Homepage displaying last workout
+Data can be visualized using chart in the front end.
 
-![Site](public/assets/homepage.png)
-
-2. Creating Workouts
-
-![Site](public/assets/live.gif)
+### Demo
 
 
-3. Last Week's Summary
-
-![Site](public/assets/dash.png)
+![Site](public/images/demo.png)
 
 
 ### Built With
