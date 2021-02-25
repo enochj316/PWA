@@ -8,8 +8,6 @@ A Full Stack web application built with express, node and indexDB. With this app
 
 * [Installation](#installation)
 * [Usage](#usage)
-    * [Screenshots](#screenshots)
-    * [Snippets](#snippets)
 * [License](#license)
 
 ## Installation
